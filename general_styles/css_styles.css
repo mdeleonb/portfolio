@@ -1,0 +1,112 @@
+header {
+  background-color: #2F223B;
+  color: #ffffff;
+}
+
+.occupation-headline {
+  padding-top: 50px;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 100;
+}
+
+.pad-top-bt-50 {
+  padding: 50px 0;
+}
+
+
+.img-thumbnail {
+  border-radius: 100%;
+  border: 0px;
+  background-color: transparent;
+}
+
+.menu-style {
+  color: #ffffff;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: lighter;
+  padding-top: 30px;
+   }
+
+
+.iam-headline {
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 400;
+  color: #11BFB3;
+  max-width: 800px;
+}
+
+.vertical-line {
+  border-left: 1px solid #fff;
+  height: 100%;
+  width: 1px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.pad-top-bt-10 {
+  padding: 10px 0;
+}
+
+.scroll-arrow {
+  color: #ffffff;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: lighter;
+  padding-bottom: 90px;
+}
+
+.secondary-menu {
+  background-color: #2F223B;
+  height:70px;
+  position:relative;
+}
+
+#contact-button {
+  height:88px;
+  width: 88px;
+  background-color: #ffffff;
+  border-radius: 100%;
+  position:absolute;
+  top:-40px;
+  right:25px;
+  z-index:4
+  -webkit-box-shadow: 10px 10px 55px -23px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 55px -23px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 55px -23px rgba(0,0,0,0.75);
+}
+
+.contact-icon {
+  position:absolute;
+  right:25px;
+  top:25px;
+}
+
+.pad-top-bt-70 {
+  padding: 70px 0;
+}
+
+.p-number {
+  font-size: 64px;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 400;
+  color: #11BFB3;
+}
+
+.p-name {
+  font-size: 48px;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 400;
+  color: #11BFB3;
+}
+
+.p-description {
+  padding:50px 0 20px 0;
+  font-size: 20px;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 400;
+  color: #11BFB3
+}
+.btn {
+  background-color: #2F223B;
+  border-radius: 0px;
+  color:#ffffff;
+}
